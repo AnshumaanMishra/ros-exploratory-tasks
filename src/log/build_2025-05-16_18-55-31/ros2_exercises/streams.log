@@ -1,0 +1,21 @@
+[1.240s] Invoking command in '/home/user/exercises_ws/src/ros2_exercises': PYTHONPATH=/home/user/exercises_ws/src/build/ros2_exercises/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/exercises_ws/src/install/ros2_exercises/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/ros2_exercises build --build-base /home/user/exercises_ws/src/build/ros2_exercises/build install --record /home/user/exercises_ws/src/build/ros2_exercises/install.log --single-version-externally-managed install_data
+[1.531s] running egg_info
+[1.532s] writing ../build/ros2_exercises/ros2_exercises.egg-info/PKG-INFO
+[1.533s] writing dependency_links to ../build/ros2_exercises/ros2_exercises.egg-info/dependency_links.txt
+[1.534s] writing entry points to ../build/ros2_exercises/ros2_exercises.egg-info/entry_points.txt
+[1.534s] writing requirements to ../build/ros2_exercises/ros2_exercises.egg-info/requires.txt
+[1.534s] writing top-level names to ../build/ros2_exercises/ros2_exercises.egg-info/top_level.txt
+[1.537s] reading manifest file '../build/ros2_exercises/ros2_exercises.egg-info/SOURCES.txt'
+[1.539s] writing manifest file '../build/ros2_exercises/ros2_exercises.egg-info/SOURCES.txt'
+[1.539s] running build
+[1.539s] running build_py
+[1.539s] running install
+[1.540s] running install_lib
+[1.542s] running install_data
+[1.542s] running install_egg_info
+[1.544s] removing '/home/user/exercises_ws/src/install/ros2_exercises/lib/python3.10/site-packages/ros2_exercises-0.0.0-py3.10.egg-info' (and everything under it)
+[1.545s] Copying ../build/ros2_exercises/ros2_exercises.egg-info to /home/user/exercises_ws/src/install/ros2_exercises/lib/python3.10/site-packages/ros2_exercises-0.0.0-py3.10.egg-info
+[1.546s] running install_scripts
+[1.575s] Installing odometry_publisher script to /home/user/exercises_ws/src/install/ros2_exercises/lib/ros2_exercises
+[1.576s] writing list of installed files to '/home/user/exercises_ws/src/build/ros2_exercises/install.log'
+[1.619s] Invoked command in '/home/user/exercises_ws/src/ros2_exercises' returned '0': PYTHONPATH=/home/user/exercises_ws/src/build/ros2_exercises/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/exercises_ws/src/install/ros2_exercises/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/ros2_exercises build --build-base /home/user/exercises_ws/src/build/ros2_exercises/build install --record /home/user/exercises_ws/src/build/ros2_exercises/install.log --single-version-externally-managed install_data
